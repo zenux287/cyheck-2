@@ -5,4 +5,3 @@ proxy-checker
 imageai
 tensorflow
 numpy
-pillows
