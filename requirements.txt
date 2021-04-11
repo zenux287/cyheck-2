@@ -2,3 +2,7 @@ discord.py
 shodan
 moneywagon
 proxy-checker
+imageai
+tensorflow
+numpy
+pillows
