@@ -1,0 +1,4 @@
+discord.py
+shodan
+moneywagon
+proxy-checker
