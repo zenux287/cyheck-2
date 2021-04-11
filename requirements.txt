@@ -4,3 +4,4 @@ moneywagon
 proxy-checker
 imageai
 numpy
+tensorflow
