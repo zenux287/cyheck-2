@@ -3,5 +3,4 @@ shodan
 moneywagon
 proxy-checker
 imageai
-tensorflow
 numpy
